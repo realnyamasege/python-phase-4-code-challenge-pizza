@@ -1,0 +1,59 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Pizza restaurants Copy",
+    "collectionId": "d90547b7-ab7b-405d-ab30-82c26a01ff61",
+    "dateExported": "2024-07-08T12:10:17.233Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "95ffa038-25e1-4632-9820-3837cef384c7",
+            "colId": "d90547b7-ab7b-405d-ab30-82c26a01ff61",
+            "containerId": "",
+            "name": "Get all restaurants",
+            "url": "http://localhost:5000/restaurants",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-07-08T11:40:53.146Z",
+            "modified": "2024-07-08T11:40:53.146Z",
+            "headers": []
+        },
+        {
+            "_id": "53bca349-7b0c-4287-80c7-b40f116f0d24",
+            "colId": "d90547b7-ab7b-405d-ab30-82c26a01ff61",
+            "containerId": "",
+            "name": "http://localhost:5000/restaurants/int:id",
+            "url": "http://localhost:5000/pizzas",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-07-08T11:40:53.147Z",
+            "modified": "2024-07-08T11:40:53.147Z",
+            "headers": []
+        },
+        {
+            "_id": "5ee50412-7427-467f-8207-ee6bbf86ef14",
+            "colId": "d90547b7-ab7b-405d-ab30-82c26a01ff61",
+            "containerId": "",
+            "name": "http://localhost:5000/restaurants/1",
+            "url": "http://localhost:5000/restaurants/1",
+            "method": "DELETE",
+            "sortNum": 30000,
+            "created": "2024-07-08T11:40:53.148Z",
+            "modified": "2024-07-08T11:40:53.148Z",
+            "headers": []
+        },
+        {
+            "_id": "379d56a6-181f-4e58-84b0-21518228d1df",
+            "colId": "d90547b7-ab7b-405d-ab30-82c26a01ff61",
+            "containerId": "",
+            "name": "http://localhost:5000/restaurant_pizzas",
+            "url": "http://localhost:5000/restaurant_pizzas",
+            "method": "POST",
+            "sortNum": 40000,
+            "created": "2024-07-08T11:40:53.149Z",
+            "modified": "2024-07-08T11:40:53.149Z",
+            "headers": []
+        }
+    ],
+    "ref": "LOKZemlgbEcymbtQpOQMd8j-lSlh33XOkVH-D2UBMtbupqa5bI-DpaEAhNGNLf3GPitKZRpg8KG_0K0_JR3XgA"
+}
